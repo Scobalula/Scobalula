@@ -1,6 +1,8 @@
 # Welcome new arrival 👋
 ## About Me
 
+<img align="right" src="https://i.imgur.com/P3lFQb8.jpg"/>
+
 My name is Philip or as go by online **Scobalula**. I'm an amateur Software Developer from Ireland with a deep interest in game modding, 3D Graphics, reverse engineering, and automation. On my GitHub you will find tons of repos for random things, both large and small, that I've made over the years. I am constantly learning and am always open to new adventures.
 
 ## Info
@@ -12,6 +14,9 @@ My name is Philip or as go by online **Scobalula**. I'm an amateur Software Deve
 - 😄 Pronouns: He/Him/They
 - ⚡ Fun fact: Dogs must be worshipped.
 <br></br>
+
+## Stats
+
 ![Scobalula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Scobalula&show_icons=true&hide_border=true)
 
 ## Socials
